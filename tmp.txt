@@ -1,0 +1,14 @@
+mode 1 size  log_normal  0.1  2.0 1 0.005 20
+mode 1 refrac  1.52  0.01
+mode 1 shape  spheroid  oblate  <size_param>
+mode 1 kappa  0.5
+mode 1 density 2
+rH <rh_param>
+size_equ  cs
+output  num_theta 4
+wavelength  0.532
+output  integrated
+output  scattering_matrix
+output  volume_scattering_function
+output  lidar
+output  phase_function
