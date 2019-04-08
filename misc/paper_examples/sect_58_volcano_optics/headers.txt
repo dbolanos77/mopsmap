@@ -1,0 +1,513 @@
+==> headers.txt <==
+
+==> jgrd54020-sup-0001-2016JD026328-ds01.txt <==
+############################################################################################
+#
+# PUBLICATION TITLE:
+# Reference dataset of volcanic ash physicochemical and optical properties 
+#
+# AUTHORS:
+# Vogel et al. 2017
+#
+# DATA:	
+# Bulk chemical composition data - Major oxides (wt.%)
+#
+# DATA PROCESSING:	
+# Oxygen by stoichiometry (Normalised)
+# 
+# INSTRUMENT:	
+# Field-emission gun scanning electron microscopy (FEG-SEM, Nova NanoSEM650 microscope) 
+# with integrated energy dispersive spectrometer (EDS, X-Max50 spectrometer)
+#
+# DATA SEPERATION:	
+# tab (\t) 
+#
+# For further information please contact:	
+# Andreas Vogel (vogel.avo@gmail.com)
+#
+############################################################################################
+
+Major oxides (µ ± s)	GRI	KEL	SAK	EYJ	SPU	RED	SOU	MSH	CHA					
+SiO2	51.7 ± 0.7	56.1 ± 7.6	60.0 ± 7.7	61.2 ± 3.8	61.7 ± 3.4	69.4 ± 8.7	68.4 ± 9.3	68.6 ± 7.1	77.1 ± 1.2
+Al2O3	13.6 ± 0.6	19.2 ± 12.2	18.3 ± 10.6	14.7 ± 4.0	19.0 ± 4.7	16.9 ± 6.4	15.9 ± 7.4	17.1 ± 4.5	13.1 ± 0.8
+FeO	13.3 ± 0.7	4.89 ± 5.5	5.70 ± 7.6	8.25 ± 3.6	4.54 ± 2.5	2.12 ± 3.1	2.83 ± 4.8	2.67 ± 5.6	1.12 ± 0.4
+
+==> jgrd54020-sup-0002-2016JD026328-ds02.txt <==
+############################################################################################
+#
+# PUBLICATION TITLE:	
+# Reference dataset of volcanic ash physicochemical and optical properties 
+#
+# AUTHORS:
+# Vogel et al. 2017
+#
+# DATA:	
+# Surface chemical composition data - Major oxides (wt.%)
+#
+# DATA PROCESSING:
+# Oxygen by stoichiometry (Normalised)
+#
+# INSTRUMENT:	
+# X-ray diffraction spectroscopy (XPS, Kratos Axis UltraDLD spectrometer)
+#
+#
+# DATA SEPERATION:	
+# tab (\t) 
+#
+# For further information please contact:	
+# Andreas Vogel (vogel.avo@gmail.com)
+#
+############################################################################################
+
+Oxides	GRI	KEL	SAK	EYJ	SPU	RED	SOU	MSH	CHA
+SiO2	51.7	56.1	60.0	61.2	61.7	69.4	68.4	68.6	77.1
+Al2O3	13.6	19.2	18.3	14.7	19.0	16.9	15.9	17.1	13.1
+FeO	13.3	4.89	5.70	8.25	4.54	2.12	2.83	2.67	1.12
+
+==> jgrd54020-sup-0003-2016JD026328-ds03.txt <==
+############################################################################################
+#
+# PUBLICATION TITLE:	
+# Reference dataset of volcanic ash physicochemical and optical properties 
+#
+# AUTHORS:
+# Vogel et al. 2017
+#
+# DATA:
+# Componentry - Glass and crystal content (%)
+#
+# DATA PROCESSING:
+# Light microscopy image contrasting
+#
+# INSTRUMENT:
+# Leica Reichert Polyvar2 optical microscope
+#
+#
+# DATA SEPERATION:	
+# tab (\t) 
+#
+# For further information please contact:	
+# Andreas Vogel (vogel.avo@gmail.com)
+#
+############################################################################################
+
+vol%	GRI	KEL	SAK	EYJ	SPU	RED	SOU	MSH	CHA
+Glass	50.9	50.7	60.6	54.2	57.6	69.5	69.5	70.0	72.1
+Crystal	49.1	49.3	39.4	45.8	42.4	30.5	30.5	30.0	28.0
+Std	1.78	3.11	2.33	8.00	6.47	7.11	2.43	3.00	1.73
+
+==> jgrd54020-sup-0004-2016JD026328-ds04.txt <==
+############################################################################################
+#
+# PUBLICATION TITLE:	
+# Reference dataset of volcanic ash physicochemical and optical properties 
+#
+# AUTHORS:
+# Vogel et al. 2017
+#
+# DATA:
+# Summaries complex shape parameter - Averged over all samples of this study
+#
+# DATA PROCESSING:	
+# Image analysis (2D projection area)
+#
+# INSTRUMENT:
+# Malvern Morphology G3
+#
+#
+# DATA SEPERATION:	
+# tab (\t) 
+#
+# For further information please contact:	
+# Andreas Vogel (vogel.avo@gmail.com)
+#
+############################################################################################
+
+Diameter	Sphericity	Sphericity_std	Aspect ratio	Aspect ratio_std	Wilson_SP	Wilson_SP_std
+5	0.8610	0.0194	0.7397	0.0233	0.8593	0.0101
+10	0.8137	0.0188	0.6798	0.0235	0.8299	0.0109
+15	0.8082	0.0154	0.6762	0.0196	0.8278	0.0090
+
+==> jgrd54020-sup-0005-2016JD026328-ds05.txt <==
+############################################################################################
+#
+# PUBLICATION TITLE:	
+# Reference dataset of volcanic ash physicochemical and optical properties 
+#
+# AUTHORS:
+# Vogel et al. 2017
+#
+# DATA:	
+# Size and shape measurements - GRIMSVÖTN 20111 (GRI)
+#
+# DATA PROCESSING:
+# Image analysis (2D projection area)
+# 
+# INSTRUMENT:	
+# Malvern Morphology G3
+#
+#
+# DATA SEPERATION:	
+# tab (\t) 
+#
+# For further information please contact:	
+# Andreas Vogel (vogel.avo@gmail.com)
+#
+############################################################################################
+
+CE Diameter	Length	Width	Max.Distance	Wilson	Perimeter	MajorAxis	Area	SEVolume	AreaPixels	Circularity	Sphericity	Convexity	Solidity	AspectRatio	Elongation
+1.58	1.81	1.58	1.82	0.931318681	4.59	111.57	1.97	2.08	101	0.989	0.979	1	1	0.872	0.128
+1.58	1.96	1.49	2	0.8625	4.72	103.11	1.97	2.08	101	0.957	0.915	1	1	0.759	0.241
+1.58	1.73	1.59	1.77	0.937853107	4.62	6.51	1.97	2.08	101	0.984	0.968	1	1	0.92	0.08
+
+==> jgrd54020-sup-0006-2016JD026328-ds06.txt <==
+############################################################################################
+#
+# PUBLICATION TITLE:	
+# Reference dataset of volcanic ash physicochemical and optical properties 
+#
+# AUTHORS:
+# Vogel et al. 2017
+#
+# DATA:	
+# Size and shape measurements - KELUD 2014 (KEL)
+#
+# DATA PROCESSING:
+# Image analysis (2D projection area)
+# 
+# INSTRUMENT:	
+# Malvern Morphology G3
+#
+#
+# DATA SEPERATION:	
+# tab (\t) 
+#
+# For further information please contact:	
+# Andreas Vogel (vogel.avo@gmail.com)
+#
+############################################################################################
+
+CE Diameter	Length	Width	Max.Distance	Wilson	Perimeter	MajorAxis	Area	SEVolume	AreaPixels	Circularity	Sphericity	Convexity	Solidity	AspectRatio	Elongation
+1.58	2.06	1.46	2.08	0.846153846	4.81	54.48	1.97	2.08	101	0.938	0.881	1	1	0.709	0.291
+1.58	1.82	1.58	1.82	0.934065934	4.58	150.13	1.97	2.08	101	0.992	0.984	1	1	0.867	0.133
+1.58	1.87	1.42	1.94	0.847938144	4.78	95.21	1.97	2.08	101	0.944	0.89	1	1	0.757	0.243
+
+==> jgrd54020-sup-0007-2016JD026328-ds07.txt <==
+############################################################################################
+#
+# PUBLICATION TITLE:	
+# Reference dataset of volcanic ash physicochemical and optical properties 
+#
+# AUTHORS:
+# Vogel et al. 2017
+#
+# DATA:	
+# Size and shape measurements - SAKURAJIMA 2013 (SAK)
+#
+# DATA PROCESSING:
+# Image analysis (2D projection area)
+# 
+# INSTRUMENT:	
+# Malvern Morphology G3
+#
+#
+# DATA SEPERATION:	
+# tab (\t) 
+#
+# For further information please contact:	
+# Andreas Vogel (vogel.avo@gmail.com)
+#
+############################################################################################
+
+CE Diameter	Length	Width	Max.Distance	Wilson	Perimeter	MajorAxis	Area	SEVolume	AreaPixels	Circularity	Sphericity	Convexity	Solidity	AspectRatio	Elongation
+368.8	443.18	368.29	444.68	0.912420167	1287.83	137.47	106824.3	26264488	341292	0.898	0.807	0.948	0.971	0.831	0.169
+338.99	415.38	351.46	419.5	0.913992849	1283.83	164.13	90254.1	20396900	288352	0.828	0.685	0.94	0.914	0.846	0.154
+330.78	373.03	317.05	373.92	0.922764228	1147.71	83.96	85937.21	18951156	274560	0.904	0.817	0.962	0.955	0.85	0.15
+
+==> jgrd54020-sup-0008-2016JD026328-ds08.txt <==
+############################################################################################
+#
+# PUBLICATION TITLE:	
+# Reference dataset of volcanic ash physicochemical and optical properties 
+#
+# AUTHORS:
+# Vogel et al. 2017
+#
+# DATA:	
+# Size and shape measurements - EYJAFJALLAJÃ–KULL 2010 (EYJ)
+#
+# DATA PROCESSING:
+# Image analysis (2D projection area)
+# 
+# INSTRUMENT:	
+# Malvern Morphology G3
+#
+#
+# DATA SEPERATION:	
+# tab (\t) 
+#
+# For further information please contact:	
+# Andreas Vogel (vogel.avo@gmail.com)
+#
+############################################################################################
+
+CE Diameter	Length	Width	Max.Distance	Wilson	Perimeter	MajorAxis	Area	SEVolume	AreaPixels	Circularity	Sphericity	Convexity	Solidity	AspectRatio	Elongation
+1.58	1.86	1.59	1.88	0.917553191	4.67	55.04	1.97	2.08	101	0.97	0.941	1	1	0.853	0.147
+1.58	1.75	1.58	1.82	0.914835165	4.94	82.86	1.97	2.08	101	0.911	0.829	0.958	0.971	0.901	0.099
+1.58	1.77	1.59	1.82	0.923076923	4.75	169.92	1.97	2.08	101	0.954	0.909	0.98	0.99	0.895	0.105
+
+==> jgrd54020-sup-0009-2016JD026328-ds09.txt <==
+############################################################################################
+#
+# PUBLICATION TITLE:	
+# Reference dataset of volcanic ash physicochemical and optical properties 
+#
+# AUTHORS:
+# Vogel et al. 2017
+#
+# DATA:	
+# Size and shape measurements - SPURR 1992 (SPU)
+#
+# DATA PROCESSING:
+# Image analysis (2D projection area)
+# 
+# INSTRUMENT:	
+# Malvern Morphology G3
+#
+#
+# DATA SEPERATION:	
+# tab (\t) 
+#
+# For further information please contact:	
+# Andreas Vogel (vogel.avo@gmail.com)
+#
+############################################################################################
+
+CE Diameter	Length	Width	Max.Distance	Wilson	Perimeter	MajorAxis	Area	SEVolume	AreaPixels	Circularity	Sphericity	Convexity	Solidity	AspectRatio	Elongation
+1.58	1.82	1.63	1.82	0.947802198	4.6	30.29	1.97	2.08	101	0.987	0.973	1	1	0.895	0.105
+1.58	2.44	1.24	2.44	0.754098361	5.3	68.17	1.97	2.08	101	0.844	0.712	1	0.99	0.511	0.489
+1.58	1.98	1.58	1.98	0.898989899	4.83	42.21	1.97	2.08	101	0.935	0.875	0.995	0.981	0.796	0.204
+
+==> jgrd54020-sup-0010-2016JD026328-ds10.txt <==
+############################################################################################
+#
+# PUBLICATION TITLE:	
+# Reference dataset of volcanic ash physicochemical and optical properties 
+#
+# AUTHORS:
+# Vogel et al. 2017
+#
+# DATA:
+# Size and shape measurements - REDOUBT 1989 (RED)													
+#
+# DATA PROCESSING:
+# Image analysis (2D projection area)
+# 
+# INSTRUMENT:	
+# Malvern Morphology G3
+#
+#
+# DATA SEPERATION:	
+# tab (\t) 
+#
+# For further information please contact:	
+# Andreas Vogel (vogel.avo@gmail.com)
+#
+############################################################################################
+
+CE Diameter	Length	Width	Max.Distance	Wilson	Perimeter	MajorAxis	Area	SEVolume	AreaPixels	Circularity	Sphericity	Convexity	Solidity	AspectRatio	Elongation
+1.58	2.09	1.4	2.09	0.83492823	4.85	126.65	1.97	2.08	101	0.93	0.865	1	1	0.667	0.333
+1.58	2.34	1.19	2.34	0.754273504	5.35	18.05	1.97	2.08	101	0.838	0.702	0.978	0.944	0.508	0.492
+1.58	1.92	1.48	1.94	0.87628866	4.7	52.08	1.97	2.08	101	0.967	0.935	1	1	0.771	0.229
+
+==> jgrd54020-sup-0011-2016JD026328-ds11.txt <==
+############################################################################################
+#
+# PUBLICATION TITLE:	
+# Reference dataset of volcanic ash physicochemical and optical properties 
+#
+# AUTHORS:
+# Vogel et al. 2017
+#
+# DATA:	
+# Size and shape measurements - SOUFRIERE HILLS 2010 (SOU)
+#
+# DATA PROCESSING:
+# Image analysis (2D projection area)
+# 
+# INSTRUMENT:	
+# Malvern Morphology G3
+#
+#
+# DATA SEPERATION:	
+# tab (\t) 
+#
+# For further information please contact:	
+# Andreas Vogel (vogel.avo@gmail.com)
+#
+############################################################################################
+
+CE Diameter	Length	Width	Max.Distance	Wilson	Perimeter	MajorAxis	Area	SEVolume	AreaPixels	Circularity	Sphericity	Convexity	Solidity	AspectRatio	Elongation
+1.58	2.09	1.43	2.09	0.842105263	4.85	142.48	1.97	2.08	101	0.93	0.865	1	1	0.683	0.317
+1.58	2.2	1.45	2.21	0.825791855	5.3	139.65	1.97	2.08	101	0.844	0.713	0.98	0.962	0.661	0.339
+1.58	1.79	1.55	1.82	0.917582418	4.57	167.12	1.97	2.08	101	0.99	0.98	1	1	0.865	0.135
+
+==> jgrd54020-sup-0012-2016JD026328-ds12.txt <==
+############################################################################################
+#
+# PUBLICATION TITLE:	
+# Reference dataset of volcanic ash physicochemical and optical properties 
+#
+# AUTHORS:
+# Vogel et al. 2017
+#
+# DATA:	
+# Size and shape measurements - Mt.St.Hills 1980 (MSH)
+#
+# DATA PROCESSING:
+# Image analysis (2D projection area)
+# 
+# INSTRUMENT:	
+# Malvern Morphology G3
+#
+#
+# DATA SEPERATION:	
+# tab (\t) 
+#
+# For further information please contact:	
+# Andreas Vogel (vogel.avo@gmail.com)
+#
+############################################################################################
+
+CE Diameter	Length	Width	Max.Distance	Wilson	Perimeter	MajorAxis	Area	SEVolume	AreaPixels	Circularity	Sphericity	Convexity	Solidity	AspectRatio	Elongation
+1.58	1.87	1.44	1.97	0.840101523	4.72	174.58	1.97	2.08	101	0.959	0.919	1	1	0.77	0.23
+1.58	2.13	1.4	2.13	0.828638498	4.94	21.97	1.97	2.08	101	0.91	0.829	0.995	0.99	0.658	0.342
+1.58	2	1.52	2	0.88	5.29	66.28	1.97	2.08	101	0.848	0.72	0.923	0.962	0.76	0.24
+
+==> jgrd54020-sup-0013-2016JD026328-ds13.txt <==
+############################################################################################
+#
+# PUBLICATION TITLE:	
+# Reference dataset of volcanic ash physicochemical and optical properties 
+#
+# AUTHORS:
+# Vogel et al. 2017
+#
+# DATA:		
+# Size and shape measurements - CHAITEN 2008 (CHA)
+#
+# DATA PROCESSING:
+# Image analysis (2D projection area)
+# 
+# INSTRUMENT:	
+# Malvern Morphology G3
+#
+#
+# DATA SEPERATION:	
+# tab (\t) 
+#
+# For further information please contact:	
+# Andreas Vogel (vogel.avo@gmail.com)
+#
+############################################################################################
+
+CE Diameter	Length	Width	Max.Distance	Wilson	Perimeter	MajorAxis	Area	SEVolume	AreaPixels	Circularity	Sphericity	Convexity	Solidity	AspectRatio	Elongation
+1.58	2.06	1.39	2.06	0.837378641	4.75	61.37	1.97	2.08	101	0.953	0.909	1	1	0.676	0.324
+1.58	1.69	1.64	1.9	0.876315789	4.86	86.85	1.97	2.08	101	0.925	0.856	1	1	0.973	0.027
+1.58	1.77	1.61	1.79	0.944134078	4.6	30.59	1.97	2.08	101	0.987	0.973	1	1	0.907	0.093
+
+==> jgrd54020-sup-0014-2016JD026328-ds14.txt <==
+############################################################################################
+#
+# PUBLICATION TITLE:	
+# Reference dataset of volcanic ash physicochemical and optical properties 
+#
+# AUTHORS:
+# Vogel et al. 2017
+#
+# DATA:	
+# Dense-rock equivalent (DRE) mass density measurements and theoretical mass density calculations (g cm-3)
+#
+# DATA PROCESSING MEASUREMENTS:	
+# Archimedean densitometry
+#
+# DATA PROCESSING CALCULATIONS:	
+# Based on mass fractions for the major oxides as obtained from the compositional 
+# analysis and crystalline volume data from Lange and Carmichael [1987].
+# 
+# DATA SEPERATION:	
+# tab (\t) 
+#
+# For further information please contact:	
+# Andreas Vogel (vogel.avo@gmail.com)
+#
+############################################################################################
+
+	GRI	KEL	SAK	EYJ	SPU	RED	SOU	MSH	CHA
+Measured density	2.934	2.777	2.801	2.812	2.709	2.582	2.585	2.612	2.444
+Std measured density	0.103	0.124	0.049	0.066	0.092	0.177	0.109	0.058	0.139
+Calculated density	2.868	2.755	2.705	2.678	2.662	2.556	2.576	2.576	2.459
+
+==> jgrd54020-sup-0015-2016JD026328-ds15.txt <==
+############################################################################################
+#
+# PUBLICATION TITLE:	
+# Reference dataset of volcanic ash physicochemical and optical properties 
+#
+# AUTHORS:
+# Vogel et al. 2017
+#
+# DATA:	
+# Real part of complex refractive index (n) as function of wavelenght (in nm)
+#
+# DATA PROCESSING:
+# Sellmeier dispersion equations [Weber, 2003] in combination with a theoretical calculation of the refractive index from chemical
+# 
+# INSTRUMENT:
+# calculations
+#
+#
+# DATA SEPERATION:	
+# tab (\t) 
+#
+# For further information please contact:	
+# Andreas Vogel (vogel.avo@gmail.com)
+#
+############################################################################################
+
+Wavelength	Basalt	Basalt-Andesite	Andesite	Dacite	Rhyolite
+300	1.6598	1.6163	1.5832	1.5651	1.5339
+302	1.6593	1.6158	1.5827	1.5647	1.5335
+304	1.6589	1.6154	1.5823	1.5643	1.5330
+
+==> jgrd54020-sup-0016-2016JD026328-ds16.txt <==
+############################################################################################
+#
+# PUBLICATION TITLE:	
+# Reference dataset of volcanic ash physicochemical and optical properties 
+#
+# AUTHORS:
+# Vogel et al. 2017
+#
+# DATA:
+# Imaginary part of complex refractive index (k) as function of wavelenght (in nm)
+#
+# DATA PROCESSING:
+# UV/Vis/NIR spectrophotometer (Perkin Elmer Lambda 950) 
+# 
+# INSTRUMENT:
+# Perkin Elmer Lambda 950
+#
+#
+# DATA SEPERATION:	
+# tab (\t) 
+#
+# For further information please contact:	
+# Andreas Vogel (vogel.avo@gmail.com)
+#
+############################################################################################
+
+Wavelength	Basalt	Basalt-Andesite	Andesite	Dacite	Rhyolite
+300	0.00170	0.00113	0.00086	0.00044	0.00028
+302	0.00170	0.00113	0.00086	0.00045	0.00028
+304	0.00170	0.00113	0.00086	0.00045	0.00028

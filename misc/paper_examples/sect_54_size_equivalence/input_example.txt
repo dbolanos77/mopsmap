@@ -1,0 +1,20 @@
+mode 1 size log_normal 0.5 2 103.6638 0.001 1.75
+mode 1 refrac 1.54 0.005
+
+mode 1 shape sphere
+mode 1 shape irregular D 
+
+# the last line with 'size_equ' determines the size equivalence that is used
+size_equ vol  
+size_equ cs
+size_equ vol_cs_ratio 
+
+wavelength 0.532
+output integrated
+output scattering_matrix
+output volume_scattering_function
+output lidar
+output num_theta 2
+debug
+
+scatlib '../../../optical_dataset/'

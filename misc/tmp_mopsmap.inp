@@ -1,0 +1,18 @@
+wavelength file tmp_mopsmap.wvl 
+size_equ cs
+mode 1 size log_normal 0.100000 2.600000 100000000.000000 0.010000 10.000000
+mode 1 refrac 1.54 0.000
+mode 1 refrac nonabs_fraction 0.000000
+mode 1 shape spheroid oblate 1.8
+mode 2 size log_normal 0.400000 2.200000 50000000.000000 0.010000 10.000000
+mode 2 refrac 1.56 0.01
+mode 2 refrac nonabs_fraction 0.000000
+mode 2 shape spheroid oblate 1.8
+scatlib '/home/user/Documentos/MOPSMAP/main_data_base/optical_dataset/'
+output integrated
+output scattering_matrix
+output volume_scattering_function
+output num_theta 2
+output lidar
+output digits 15
+output ascii_file tmp_mopsmap
